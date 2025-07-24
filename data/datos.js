@@ -237,7 +237,7 @@ var datos = {
     },
   ],
   "publicaciones": {
-    "anos": ["2022-2023", "2021", "2020", "2019", "2017-2018", "2011-2016", "2005-2010"],
+    "anos": ["2025", "2024", "2022-2023", "2021", "2020", "2019", "2017-2018", "2011-2016", "2005-2010"],
     // {
     //   "text": "",
     //   "img": "./assets/img/publicaciones/img/20/",
@@ -246,6 +246,56 @@ var datos = {
     //   "name_link": "",
     //   "link":"" 
     // },
+        "2025":[{
+          "text": "Gomez et al. (2025). Modelling debris flood propagation in scarce data terrain, case study in the Colombian Andes",
+          "img": "",
+          "local_pdf": false,
+          "pdf": "",
+          "name_link": "Paper",
+          "link":"https://www.sciencedirect.com/science/article/pii/S0895981125003220?via%3Dihub" 
+        },
+        {
+          "text": "Palacio et al. (2025). The basal friction in the modeling of the propagation of shallow landslides – debris flow using r.avaflow",
+          "img": "",
+          "local_pdf": false,
+          "pdf": "",
+          "name_link": "Paper",
+          "link":"https://revista.geologica.org.ar/raga/article/view/1806" 
+        },
+        {
+          "text": "Aristizabal et al. (2025). Geohazard: base de datos por movimientos en masa y avenidas torrenciales en Colombia y el departamento de Antioquia",
+          "img": "",
+          "local_pdf": false,
+          "pdf": "",
+          "name_link": "Paper",
+          "link":"https://revistas.umng.edu.co/index.php/rcin/article/view/7786" 
+        },
+        {
+          "text": "Nieto S., Aristizabal E., Ozturk O. (2025). Coupled evolution of a city and landslides",
+          "img": "./assets/img/publicaciones/img/2025/Oliver2025.png",
+          "local_pdf": false,
+          "pdf": "",
+          "name_link": "Paper",
+          "link":"https://iopscience.iop.org/article/10.1088/1748-9326/adc4d8" 
+        },
+        {
+       "text": "Aristizabal E., Korup O. (2025). Linking Landslide Patterns to Transient Landscapes in the Northern Colombian Andes",
+       "img": "./assets/img/publicaciones/img/2025/Oliver2025.png",
+       "local_pdf": false,
+       "pdf": "",
+       "name_link": "Paper",
+       "link":"https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JF008027" 
+     },
+    ],
+         "2024":[{
+       "text": "Tayebi et al. (2024). Stakeholder Perspectives on Landslide Triggers and Impacts in Five Countries",
+       "img": "./assets/img/publicaciones/img/2024/Tayebi2024.png",
+       "local_pdf": false,
+       "pdf": "",
+       "name_link": "Paper",
+       "link":"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840729" 
+     },
+    ],
     "2022-2023": [{
         "text": "Jaramillo-González, R., Martínez, L., Aristizábal, E., García, E., & Marín, R. J. (2023). Definition of Rainfall Thresholds for Shallow Landslides in Colombian Tropical Mountainous Catchments as Debris Flow Triggering Mechanism. In E3S Web of Conferences (Vol. 415, p. 05009). EDP Sciences.",
         "img": "./assets/img/publicaciones/img/2022_2023/images.png",
